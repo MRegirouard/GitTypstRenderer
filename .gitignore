@@ -1,0 +1,5 @@
+# Typst output files
+*.pdf
+
+# .env files
+.env
